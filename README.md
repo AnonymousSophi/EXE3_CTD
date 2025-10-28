@@ -1,2 +1,3 @@
 # EXE3_CTD
 Circuito que mostre a sequência cíclica de 8 estados em hexadecimal.
+Nossa sequência escolhida foi: 0 → 9 → 4 → b → C → 6 → 1 → F → 0...
